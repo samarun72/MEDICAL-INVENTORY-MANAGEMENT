@@ -1,2 +1,17 @@
-# MEDICAL-INVENTORY-MANAGEMENT
-A Salesforce-based Medical Inventory Management system developed as part of the Naan Mudhalvan project (SB8067 - Salesforce Developer). This project helps hospitals and medical stores manage medicines, suppliers, and stock efficiently using Salesforce CRM tools.
+Here You will find all the document files related to the " MEDICAL INVENTORY MANAGEMENT " Project.
+
+Team ID : NM2025TMID01548
+
+Team Size : 4
+
+Team Leader : Arunmozhi C
+
+Team member : Abul Harish J
+
+Team member : Balamurugan P
+
+Team member : Balamurugan P
+
+Salesforce :
+
+Demo Vedio Link:
