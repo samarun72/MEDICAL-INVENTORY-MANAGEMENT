@@ -12,6 +12,6 @@ Team member : Balamurugan P
 
 Team member : Balamurugan P
 
-Salesforce :
+Salesforce : https://shanmuganathanengineeringc9-dev-ed.develop.lightning.force.com/lightning/o/Dashboard/home?queryScope=mru
 
-Demo Vedio Link:
+Demo Vedio Link:https://drive.google.com/file/d/1ax9yLH6KLCMEpbBiCXmsC325aeVbURdP/view?usp=drive_link
