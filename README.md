@@ -4,7 +4,7 @@ Team ID : NM2025TMID01548
 
 Team Size : 4
 
-Team Leader : Arunmozhi C
+Team Leader : Arun Mozhi C
 
 Team member : Abul Harish J
 
